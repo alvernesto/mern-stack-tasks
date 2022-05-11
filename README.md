@@ -11,4 +11,5 @@ Client and server app + To do list app + React js + Express js + Pgadmin + taks'
 + cmd set a new task : INSERT INTO tasks(title, description) values('eat', 'eat a lot') RETURNING *;
 + cmd start client app: npm run webpack
 + cmd start server app: npm run dev
++ Use app (create, read, update, delete tasks)
 
